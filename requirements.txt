@@ -1,0 +1,10 @@
+# iOS Screen Mirror — Python 依赖
+# libimobiledevice (系统工具) 请通过 setup.sh 安装
+
+customtkinter>=5.2.0
+Pillow>=10.0.0
+numpy>=1.24.0
+pymobiledevice3>=2.0.0
+
+# 可选: 增强 macOS 剪贴板兼容性
+# pyobjc-framework-Quartz>=10.0
